@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+
 def pattern(n):
     for row in range(n):
         for col in range(n):
